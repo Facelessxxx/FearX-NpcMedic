@@ -1,6 +1,6 @@
 # FearX-NpcMedic
 
-Preview : https://www.youtube.com/watch?v=gkeccCosCJw
+Preview : https://youtu.be/L1H5jwHxh6E
 
 Features 
 
